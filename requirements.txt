@@ -1,8 +1,0 @@
-python-telegram-bot
-fastapi
-uvicorn
-yfinance
-pandas
-ta
-pytz
-apscheduler
